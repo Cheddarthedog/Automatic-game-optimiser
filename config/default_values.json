@@ -1,0 +1,10 @@
+{
+    "cpu_governor": "powersave",
+    "swap_enabled": true,
+    "zram_status" : "disabled",
+    "screensaver_idle_delay": 300,
+    "screensaver_enabled": true,
+    "power_sleep_inactive_ac_type": "suspend",
+    "power_sleep_inactive_ac_timeout": 600
+}
+
